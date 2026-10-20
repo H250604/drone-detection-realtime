@@ -7,3 +7,7 @@ __pycache__/
 *.webp
 *.docx
 log_*.json
+*.rar
+*.exe
+*.jpg
+*.jpeg
