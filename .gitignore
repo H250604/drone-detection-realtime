@@ -1,0 +1,9 @@
+build/
+dist/
+__pycache__/
+*.spec
+*.mp4
+*.avi
+*.webp
+*.docx
+log_*.json
